@@ -1,25 +1,15 @@
-### About Me
-⚡
+### ✨ About Me
+ - ⚡ Embedded System Developer | +11 years of experience 
+ - 🌱 I'm currently learning: python
+ - 😄 Pronouns: He/Him 
 
-### 💻 What I am currently working on
-
--  [Keyfob](https://github.com/niaraki/keyfob)
+### 🔭  What I am currently working on
+ - [Keyfob_firmware](https://github.com/niaraki/keyfob_firmware)
   
-### 📫 How to reach me:
-E-mail: mohammadniaraki@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/mohammadniaraki//">MohammadNiaraki</a>
+### 📫 How to reach me
+  E-mail: mohammadniaraki@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/mohammadniaraki/">Mohammad Niaraki</a>
 
-### 🔨 Languages and Tools:
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" align="left" alt="git" height='42px'/>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://i.imgur.com/VyjCJuz.png" align="left" alt="git" height='42px'/>
-
-
-<br>
-<br>
-
-### 💹 Github Stats
+### 📈 My GitHub Status 
 
 <div>
   <a href="https://github.com/niaraki">
@@ -27,12 +17,23 @@ E-mail: mohammadniaraki@outlook.com | Linkedin: <a href="https://www.linkedin.co
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niaraki&layout=compact&theme=onedark"/>
 </div>
 
+### 🔨 Technologies:
+<code><img height="40" alt="c" src="assets/c_badge.png"/></code>
+<code><img height="40" alt="cpp" src="assets/cpp_badge.png"/></code>
+<code><img height="40" alt="cs" src="assets/cs_badge.png"/></code>
+<code><img height="40" alt="linux" src="assets/linux_badge.png"/></code>
+<code><img height="40" alt="vs" src="assets/vs_badge.png"/></code>
+<code><img height="40" alt="vim" src="assets/lvim_badge.png"/></code>
+<code><img height="40" alt="docker" src="assets/docker_badge.png"/></code>
+<code><img height="40" alt="jenkins" src="assets/jenkins_badge.png"/></code>
+<code><img height="40" alt="cppchec" src="assets/cppcheck_badge.png"/></code>
+<code><img height="40" alt="cmake" src="assets/cmake_badge.png"/></code>
+<code><img height="40" alt="stm32" src="assets/stm32_badge.png"/></code>
+<br>
+### 💻 My favorite setup
+  i3wm | tmux | lunarvim | ubuntu 20.4 lts
 
 <!--
-**niaraki/niaraki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

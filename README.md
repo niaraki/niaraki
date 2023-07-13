@@ -12,9 +12,9 @@
 ### 💹 Github Stats
 
 <div>
-  <a href="https://github.com/CharlesDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CharlesDias&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=CharlesDias&layout=compact&theme=dark"/>
+  <a href="https://github.com/niaraki">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niaraki&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niaraki&layout=compact&theme=dark"/>
 </div>
 
 

@@ -1,3 +1,13 @@
+### About Me
+⚡
+
+### 💻 What I am currently working on
+
+-  [Keyfob](https://github.com/niaraki/keyfob)
+  
+### 📫 How to reach me:
+E-mail: mohammadniaraki@outlook.com | Linkedin: <a href="https://www.linkedin.com/in/mohammadniaraki//">MohammadNiaraki</a>
+
 ### 🔨 Languages and Tools:
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://i.imgur.com/zINUxVf.png" align="left" alt="git" height='42px'/>
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" align="left" alt="git" height='42px'/>
@@ -13,8 +23,8 @@
 
 <div>
   <a href="https://github.com/niaraki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niaraki&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niaraki&layout=compact&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niaraki&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niaraki&layout=compact&theme=onedark"/>
 </div>
 
 

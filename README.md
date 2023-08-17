@@ -13,8 +13,8 @@
 
 <div>
   <a href="https://github.com/niaraki">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=niaraki&show_icons=true&theme=onedark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=niaraki&layout=compact&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=niaraki&show_icons=true&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=niaraki&layout=compact&theme=onedark"/>
 </div>
 
 ### 🔨 Technologies:

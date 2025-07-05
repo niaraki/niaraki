@@ -18,17 +18,17 @@
 </div>
 
 ### 🔨 Technologies:
-<code><img height="40" alt="c" src="assets/c_badge.png"/></code>
-<code><img height="40" alt="cpp" src="assets/cpp_badge.png"/></code>
-<code><img height="40" alt="cs" src="assets/cs_badge.png"/></code>
-<code><img height="40" alt="linux" src="assets/linux_badge.png"/></code>
-<code><img height="40" alt="vs" src="assets/vs_badge.png"/></code>
-<code><img height="40" alt="vim" src="assets/lvim_badge.png"/></code>
-<code><img height="40" alt="docker" src="assets/docker_badge.png"/></code>
-<code><img height="40" alt="jenkins" src="assets/jenkins_badge.png"/></code>
-<code><img height="40" alt="cppchec" src="assets/cppcheck_badge.png"/></code>
-<code><img height="40" alt="cmake" src="assets/cmake_badge.png"/></code>
-<code><img height="40" alt="stm32" src="assets/stm32_badge.png"/></code>
+<code><img height="40px" alt="c" src="assets/c_badge.png"/></code>
+<code><img height="40px" alt="cpp" src="assets/cpp_badge.png"/></code>
+<code><img height="40px" alt="cs" src="assets/cs_badge.png"/></code>
+<code><img height="40px" alt="linux" src="assets/linux_badge.png"/></code>
+<code><img height="40px" alt="vs" src="assets/vs_badge.png"/></code>
+<code><img height="40px" alt="vim" src="assets/lvim_badge.png"/></code>
+<code><img height="40px" alt="docker" src="assets/docker_badge.png"/></code>
+<code><img height="40px" alt="jenkins" src="assets/jenkins_badge.png"/></code>
+<code><img height="40px" alt="cppchec" src="assets/cppcheck_badge.png"/></code>
+<code><img height="40px" alt="cmake" src="assets/cmake_badge.png"/></code>
+<code><img height="40px" alt="stm32" src="assets/stm32_badge.png"/></code>
 <br>
 ### 💻 My favorite setup
   i3wm | tmux | lunarvim | ubuntu 20.4 lts
